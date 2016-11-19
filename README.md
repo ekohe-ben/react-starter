@@ -1,4 +1,4 @@
-My Project
+React Project Starter
 ---
 
 Welcome.
